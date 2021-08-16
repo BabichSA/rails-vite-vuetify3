@@ -1,6 +1,7 @@
 <template>
   <section>
     {{ test }}
+    <v-btn block> Block Button </v-btn>
   </section>
 </template>
 
